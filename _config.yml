@@ -2,7 +2,7 @@ title:            WOPA Blog
 description:      WOPA Blog.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:             http://wopaoutbox.github.io
-disqus_shortname: lynnug
+disqus_shortname: wopaoutbox
 
 # Owner/author information
 owner:
