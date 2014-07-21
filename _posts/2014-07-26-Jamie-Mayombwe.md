@@ -15,3 +15,12 @@ We are in our seventh week of the program and so far I have had the chance to in
 Our first week was what was tagged a self dicovery week that was followed by a personal discovery week. I think I faced the most challenges in these two weeks because we had to dig deeper within ourselves in order to ind out what we were deeply passionate about and some aspects about our lives that we had never really had a chance to contemplate about.
 
 From there on it has been a mix of both business and tech classes that have gotten us really out o our comfort zones and really working in teams and making sure that everyone's opinion is acknowledged and respected. We still have a ew weeks let in the pogram and a lot more to learn, and personally I'm looiking forward to it all. 
+
+##The WOPA Ladies
+<figure>
+	<a href="http://wopaoutbox.github.io/images/image.jpg
+"><img src="http://wopaoutbox.github.io/images/image.jpg
+"></a>
+	<figcaption><a href="http://wopaoutbox.github.io/images/image.jpg
+" title="First Python Clas">First WOPA Class</a>.</figcaption>
+</figure>
