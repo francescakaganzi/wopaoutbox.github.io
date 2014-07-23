@@ -22,8 +22,7 @@ Going through my life maps was like watching an really old movie i had long forg
 # First Week
 
 <figure>
-	<a href="http://wopaoutbox.github.io/images/training_weeek1.jpg
-"><img src="http://wopaoutbox.github.io/images/training_weeek1.jpg
+	<a href="http://wopaoutbox.github.io/images/training_weeek1.jpg"><img src="http://wopaoutbox.github.io/images/training_weeek1.jpg
 "></a>
 	<figcaption><a href="http://wopaoutbox.github.io/images/training_weeek1.jpg
 " title="First Week of Wopa class">Week 1 class</a>.</figcaption>
