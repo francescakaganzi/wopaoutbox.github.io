@@ -22,11 +22,10 @@ Going through my life maps was like watching an really old movie i had long forg
 # First Week
 
 <figure>
-	<a href="http://wopaoutbox.github.io/images/training_week1.jpg
-"><img src="http://wopaoutbox.github.io/images/training_week1.jpg
+	<a href="http://wopaoutbox.github.io/images/training_week1.jpg"><img src="http://wopaoutbox.github.io/images/training_week1.jpg
 "></a>
 	<figcaption><a href="http://wopaoutbox.github.io/images/training_week1.jpg
-" title="First Week of Wopa class">Week 1</a>.</figcaption>
+" title="First Week of Wopa class">Week 1 class</a>.</figcaption>
 </figure>
 
 #### You will have to hold wait for my next blog to know about week 2. Here's a hint... 'Discovery'
