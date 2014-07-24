@@ -24,9 +24,9 @@ under Tech classes; Every day  i learn new concepts which is good although comin
 
 # WOPA LADIES(Sheila, Louise and Joan)
 <figure>
-	<a href="http://wopaoutbox.github.io/images/image.jpg
-"><img src="http://wopaoutbox.github.io/images/image.jpg
+	<a href="http://wopaoutbox.github.io/images/myGirls.jpg
+"><img src="http://wopaoutbox.github.io/images/myGirls.jpg
 "></a>
-	<figcaption><a href="http://wopaoutbox.github.io/images/image.jpg
+	<figcaption><a href="http://wopaoutbox.github.io/images/myGirls.jpg
 " title="First Python Clas">First WOPA Class</a>.</figcaption>
 </figure>
