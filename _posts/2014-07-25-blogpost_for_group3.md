@@ -6,6 +6,9 @@ tags: []
 comments: true
 ---
 
+## A new year, a new beginning
+
+When the clock struck midnight, the sky exploded in an array of colours. Fireworks popped all over the city and from our vantage point on top of Muyenga hill my friends and I had the best view. The New Year had rolled in and we were over the moon with excitement. What future was ahead of us? Hopefully this would be a better year. As we hugged and wished each other a blessed year I thought about what resolutions we would be making this time. And whether we would stick to them.
 
 
 
