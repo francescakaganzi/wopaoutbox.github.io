@@ -28,6 +28,6 @@ Now these are something. I did not know how to do/hand in assignments on my own 
 	<a href="http://wopaoutbox.github.io/images/sad_eggs.jpg
 "><img src="http://wopaoutbox.github.io/images/sad_eggs.jpg
 "></a>
-	
-" title="First Python Clas">First Python Class</a>.</figcaption>
+	<figcaption><a href="http://wopaoutbox.github.io/sad_eggs.jpg
+" title="Sad Eggs">Life in Eggs</a>.</figcaption>
 </figure>
