@@ -15,3 +15,6 @@ I don't know how long this will go on or how long I can keep this up.I don't wan
 No one seems to be bothered about what's going on. You'd think that the leaders of this country would be able to protect their citizens. It's too loud, the noise is deafening.Only God can protect us now. 
 I have lives to protect. My little sister is only 8 and my brother 6. 
 All I can do now is fight for myself, and fight for those  I love. 
+
+This must be a dream,a terrible dream, a nightmare. It was just last month when we were all so peaceful,lived with our parents as one big happy family. But now,we are left without parental love,without care,homeless trekking night after night simply looking for whatever shelter we can get, all in the name of power struggle. 
+May God help us,may He help this nation.
