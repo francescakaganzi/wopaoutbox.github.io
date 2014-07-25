@@ -6,13 +6,10 @@ tags: []
 comments: true
 ---
 
-## HTML Elements
 
 
 # My experience with WOPA
 
-
-### Body text
 
 When I signed up for the  Women Passion Program, I expected to go through the drills  just like  any other program, and slightly improve my  programming  skills at the  end  of it all. Seven weeks down the road, I can confidently say I was wrong. Unlike other training programs, I have experienced an amazing way of learning concepts in the shortest time possible. I always long for the next “episode” of Wopa sessions.
 
