@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sample"
-description: "My first WOPA blog"
+description: "Laura's first WOPA blog"
 tags: []
 comments: true
 ---
