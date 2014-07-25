@@ -27,7 +27,15 @@ It has been great meeting all these inspiring ladies and experiencing the zest t
 "><img src="https://s3-us-west-2.amazonaws.com/witupython/images/image.jpg
 "></a>
 	<figcaption><a href="https://s3-us-west-2.amazonaws.com/witupython/images/image.jpg
-" title="First Python Clas">First Python Class</a>.</figcaption>
+" title="First Python Clas">This is how I feel knowing Python</a>.</figcaption>
+</figure>
+
+<figure>
+	<a href="https://s3-us-west-2.amazonaws.com/witupython/images/python.png
+"><img src="https://s3-us-west-2.amazonaws.com/witupython/images/python.png
+"></a>
+	<figcaption><a href="https://s3-us-west-2.amazonaws.com/witupython/images/python.png
+" title="First Python Clas">This is how I feel knowing Python</a>.</figcaption>
 </figure>
 <figure>
 	
