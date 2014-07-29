@@ -14,11 +14,13 @@ comments: true
 "></a>
 	
 I signed up for WOPA because Ithought it would be a great experience and i'm glad to say it was.
-I met so many great people. I met Christine Murungi who later became a wonderful addition to my life.
+I met so many great people. I met Christine Murungi and Debbie who later became a wonderful addition to my life.
 
 The first session with Michael Niyitegeka I should say has been my best. The things he said and showed us opened up a whole new world for me. I have a whole new perspective on my life thanks to him.
 
 I've loved the technical sessions (and this has nothing to do with the fact that Lynn is very generous with her candy). They're fun and as an aspiring developer I am happy to learn a new language and a new way of doing things.
+
+It has been great meeting all these inspiring ladies and experiencing the zest they have for life and new experiences.
 
 <figure>
 	<a href="https://s3-us-west-2.amazonaws.com/witupython/images/image.jpg
