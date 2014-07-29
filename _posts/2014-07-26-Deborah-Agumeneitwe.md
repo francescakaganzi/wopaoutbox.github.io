@@ -16,6 +16,7 @@ I first heard about outbox while i was looking for an internship placement. The 
 Eh,business analysts are strong people. It requires alot of patience,and i believe i have become more analytical,paying attention to the tiniest detail because any information is mportant.still learning....
 
 ## Technical Sessions
+
 Now these are something. I did not know how to do/hand in assignments on my own until i joined the technical class. They have helped me push myself,get out of my comfort/lazy zone,learning all these new things;python,github and wow, the struggle continues...... 
 
 ###### All in all,am greatful for this wopa experience:-) 
@@ -30,4 +31,3 @@ Now these are something. I did not know how to do/hand in assignments on my own 
 "></a>
 	<figcaption><a href="http://wopaoutbox.github.io/sad_eggs.jpg
 " title="Sad Eggs">Life in Eggs</a>.</figcaption>
-</figure>
