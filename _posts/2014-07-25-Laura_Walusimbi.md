@@ -20,4 +20,4 @@ I’m glad I was chosen to be in the first cohort of this amazing program!
 	<a href="http://wopaoutbox.github.io/images/AUR copy.jpeg
 "><img src="http://wopaoutbox.github.io/images/AUR copy.jpeg
 "></a>
-	<figcaption><a href="http://wopaoutbox.github.io/images/AUR copy.jpeg
+	<figcaption><a href="http://wopaoutbox.github.io/images/AUR copy.jpeg>
