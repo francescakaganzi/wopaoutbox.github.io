@@ -1,11 +1,10 @@
-﻿---
+---
 layout: post
 title: "Annet Kabuye Wopa blog"
 description: "Summary of my experience so far WITH WOPA"
 tags: []
 comments: true
 ---
-
 
 
 # My experience with WOPA
