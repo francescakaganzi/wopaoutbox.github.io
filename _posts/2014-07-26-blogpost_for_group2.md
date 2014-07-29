@@ -18,3 +18,5 @@ All I can do now is fight for myself, and fight for those  I love.
 
 This must be a dream,a terrible dream, a nightmare. It was just last month when we were all so peaceful,lived with our parents as one big happy family. But now,we are left without parental love,without care,homeless trekking night after night simply looking for whatever shelter we can get, all in the name of power struggle. 
 May God help us,may He help this nation.
+
+Now-a-days insecurity can be seen everywhere. It is like cancer in public life, which has not become so rampant and perpetuated overnight, but in course of time. What is even more frightening is that the principles of international law and the tools of multilateral action which could protect us from these attacks are being undermined, marginalized or destroyed by powerful governments.
