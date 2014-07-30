@@ -12,7 +12,7 @@ comments: true
 	<a href="http://wopaoutbox.github.io/images/_DSC9160-1.jpg
 "><img src="http://wopaoutbox.github.io/images/_DSC9160-1.jpg
 "></a>
-	<figcaption><a href="http://wopaoutbox.github.io/images/image.jpg
+	<figcaption><a href="http://wopaoutbox.github.io/images/_DSC9160-1.jpg
 " title="True Likeness">Sheila Alexandria Kijjambu</a>.</figcaption>
 </figure>
 
@@ -30,5 +30,5 @@ It has been great meeting all these inspiring ladies and experiencing the zest t
 "><img src="http://wopaoutbox.github.io/images/image.jpg
 "></a>
 	<figcaption><a href="http://wopaoutbox.github.io/images/image.jpg
-" title="First Python Clas">First WOPA Class</a>.</figcaption>
+" title="First Python Class">First WOPA Class</a>.</figcaption>
 </figure>
