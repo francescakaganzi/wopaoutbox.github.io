@@ -9,10 +9,13 @@ comments: true
 ##Hello WOPA class!!!
 
 <figure>
-	<a href="https://s3-us-west-2.amazonaws.com/witupython/images/DSC9160-1.jpg
-"><img src="https://s3-us-west-2.amazonaws.com/witupython/images/DSC9160-1.jpg
+	<a href="http://wopaoutbox.github.io/images/_DSC9160-1.jpg
+"><img src="http://wopaoutbox.github.io/images/_DSC9160-1.jpg
 "></a>
-	
+	<figcaption><a href="http://wopaoutbox.github.io/images/image.jpg
+" title="True Likeness">Sheila Alexandria Kijjambu</a>.</figcaption>
+</figure>
+
 I signed up for WOPA because Ithought it would be a great experience and i'm glad to say it was.
 I met so many great people. I met Christine Murungi who later became a wonderful addition to my life.
 
@@ -23,20 +26,9 @@ I've loved the technical sessions (and this has nothing to do with the fact that
 It has been great meeting all these inspiring ladies and experiencing the zest they have for life and new experiences.
 
 <figure>
-	<a href="https://s3-us-west-2.amazonaws.com/witupython/images/image.jpg
-"><img src="https://s3-us-west-2.amazonaws.com/witupython/images/image.jpg
+	<a href="http://wopaoutbox.github.io/images/image.jpg
+"><img src="http://wopaoutbox.github.io/images/image.jpg
 "></a>
-	<figcaption><a href="https://s3-us-west-2.amazonaws.com/witupython/images/image.jpg
-" title="First Python Clas">This is how I feel knowing Python</a>.</figcaption>
+	<figcaption><a href="http://wopaoutbox.github.io/images/image.jpg
+" title="First Python Clas">First WOPA Class</a>.</figcaption>
 </figure>
-
-<figure>
-	<a href="https://s3-us-west-2.amazonaws.com/witupython/images/python.png
-"><img src="https://s3-us-west-2.amazonaws.com/witupython/images/python.png
-"></a>
-	<figcaption><a href="https://s3-us-west-2.amazonaws.com/witupython/images/python.png
-" title="First Python Clas">This is how I feel knowing Python</a>.</figcaption>
-</figure>
-<figure>
-	
-
