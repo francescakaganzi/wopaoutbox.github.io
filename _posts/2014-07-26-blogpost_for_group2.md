@@ -21,3 +21,7 @@ This must be a dream,a terrible dream, a nightmare. It was just last month when 
 May God help us,may He help this nation.
 
 Now-a-days insecurity can be seen everywhere. It is like cancer in public life, which has not become so rampant and perpetuated overnight, but in course of time. What is even more frightening is that the principles of international law and the tools of multilateral action which could protect us from these attacks are being undermined, marginalized or destroyed by powerful governments.
+
+
+how sad is to be out of home and be in a insecure place,to be a foreigner in a contry far away from home.i wish i could go back ,but there is no where i can pass,no whare i can go apart from being insid the house and pray hard!God is great and i know this is going to end in God bless.
+let me just pray alot...!its to much to be in surch contry where leaders don't try their best for the peace of the contry
